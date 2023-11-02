@@ -19,4 +19,5 @@ Creates 2 clusters from 2D data
 - Find the largest gap between the two sorts
 - Define the clusters on that axis
 
-![Image](2dclusterplot.png "icon")
+![Image](2dclusterplot.png)
+![Image](2dclusterplot2.png)
