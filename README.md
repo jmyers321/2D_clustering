@@ -31,3 +31,5 @@ Creates 2 clusters from 1D data
 
 - find all of the values of the distances between points
 - find the largest gap
+
+![Image](1dclustering.png)
