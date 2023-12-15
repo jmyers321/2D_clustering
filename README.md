@@ -21,3 +21,13 @@ Creates 2 clusters from 2D data
 
 ![Image](2dclusterplot.png)
 ![Image](2dclusterplot2.png)
+
+# 1D_clustering
+## Overview
+Groups 1D data into clusters
+## Details
+
+Creates 2 clusters from 1D data
+
+- find all of the values of the distances between points
+- find the largest gap
